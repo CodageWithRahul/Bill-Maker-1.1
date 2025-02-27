@@ -1,10 +1,14 @@
-# Bill-Maker-1.1
+# Bill-Maker
 A user-friendly billing application designed to simplify office billing tasks.
 
 ## Features
 - Generate and save invoices.
 - Add and manage terms and conditions.
 - Easy-to-use graphical interface.
+- Edit Existing Data – Now possible to update existing customer details easily.
+- xport Bills to Excel – Generate an Excel file with all bill details for better record-keeping.
+- Add Watermark to Invoices – Customize invoices by adding a watermark to the bill page.
+- dditional Billing Fields – Extra fields have been added to make invoices more detailed and
 
 ## System Requirements
 - **Operating System**: Windows 7 or later.
@@ -12,7 +16,6 @@ A user-friendly billing application designed to simplify office billing tasks.
 ## Installation
 1. Go to the [Releases](https://github.com/CodageWithRahul/Bill-Maker-1.1/releases) page of this repository.
 2. Download the latest version of the setup file:
-   - Bill Maker 1.1.exe
 3. Run the setup file:
    - **Windows**: Double-click the .exe file and follow the installation prompts.
 
